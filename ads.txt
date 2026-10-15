@@ -1,0 +1,2 @@
+# Add the exact publisher record supplied by Google AdSense after your account is approved.
+# Do not guess or copy another publisher's ID.
